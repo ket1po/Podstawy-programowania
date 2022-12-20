@@ -1,0 +1,9 @@
+https://www.plukasiewicz.net/DotNet5/DotNet5Introduction 
+https://learn.microsoft.com/pl-pl/dotnet/core/whats-new/dotnet-6
+https://learn.microsoft.com/pl-pl/dotnet/core/whats-new/dotnet-7
+
+
+
+.net 5.0
+.net 6.0
+.net 7.0
