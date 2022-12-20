@@ -2,6 +2,7 @@ https://www.plukasiewicz.net/DotNet5/DotNet5Introduction
 https://learn.microsoft.com/pl-pl/dotnet/core/whats-new/dotnet-6
 https://learn.microsoft.com/pl-pl/dotnet/core/whats-new/dotnet-7
 https://bulldogjob.pl/readme/net-7
+https://bulldogjob.pl/readme/net-5-vs-net-6-kluczowe-roznice
 
 
 .net 5.0
